@@ -24,6 +24,8 @@ To extract the Fantasy Premier League data:
     
     b. ```profiles``` is the number of profiles you want to download.
     
+    c. ```specific-profiles``` is the script which allows you to enter a list of team IDs and pull the team data for each team.
+    
     c. ```gameweeks``` is the number of gameweek data that you want to download.
 3. Run ```node live.js, players.js, profiles.js, teams.js, gameweeks.js``` to extract and save the data.
 
