@@ -32,6 +32,7 @@ setInterval(function() {
       summary_overall_points: data.entry.summary_overall_points,
       summary_overall_rank: data.entry.summary_overall_rank,
       total_transfers: data.entry.total_transfers,
+      event_transfers_cost: data.entry.event_transfers_cost,
       team_name: data.entry.name,
       bank: data.entry.bank,
       value: data.entry.value,
